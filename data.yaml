@@ -1,0 +1,6 @@
+train: "C:/Users/RAMYA S/OneDrive/Documents/combined-pills-dataset/train/images"
+val: "C:/Users/RAMYA S/OneDrive/Documents/combined-pills-dataset/valid/images"
+test: "C:/Users/RAMYA S/OneDrive/Documents/combined-pills-dataset/test/images"
+
+nc: 7
+names: ['pill', 'Lincomyxin_500mg', 'Loratadine_10mg', 'Paracetamol_350mg', 'Paracetamol_500mg', 'Paracetamol_650mg', 'Terpinzoat']
